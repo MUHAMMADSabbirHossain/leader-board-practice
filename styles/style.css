@@ -1,6 +1,8 @@
 /* font name poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
 
-h1 {
-    color: red;
+/* common style or utilites */
+body {
+    font-family: 'Poppins', sans-serif;
+
 }
